@@ -1,0 +1,14 @@
+#Install Python3 on Linux
+sudo apt-get install python3
+
+#Execute Python Script - Run all statements in script0.py file
+python3 script0.py
+
+#Steps in CPython execution
+1) Byte code compilation (speeds execution) (extension .pyc) (saves byte code files in __pycache__ directory) (generated only for imported, not top-level files)
+2) Python Virtual Machine (PVM) (takes .pyc as input) (just runs all the byte code line by line) (runtime engine) 
+3) Frozen Binaries (turn your python code into a true executable) (bundles together byte code, PVM interpreter and support files) [Optional]
+
+#Expected output
+Hello World
+1267650600228229401496703205376
