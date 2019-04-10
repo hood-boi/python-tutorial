@@ -1,0 +1,13 @@
+#Imports/Reloads
+You can access iterms of a module(any python script ending in .py) by importing.
+Import is a statement.
+Reload is a function().
+
+
+#Run Cmd
+>./top_level.py
+
+#Expected Output
+This is dummy 1!
+This is dummy 2!
+
