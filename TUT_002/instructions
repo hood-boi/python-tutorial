@@ -1,5 +1,5 @@
 #Imports/Reloads
-You can access iterms of a module(any python script ending in .py) by importing.
+You can access items(variables and functions) of a module(any python script ending in .py) by importing.
 Import is a statement.
 Reload is a function().
 
