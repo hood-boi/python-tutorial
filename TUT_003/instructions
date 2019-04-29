@@ -1,0 +1,10 @@
+#Run Cmd
+>./top_level.py
+
+#Everything on python is an object
+
+#Python Hierarchy
+programs are made of modules
+	-> modules are made of statements 
+		 -> statements are made of expressions 
+			-> expressions create and process objects
